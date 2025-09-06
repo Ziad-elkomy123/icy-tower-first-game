@@ -1,0 +1,322 @@
+﻿C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(538,5): warning MSB8028: The intermediate directory (x64\Debug\) contains files shared from another project (Project1.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  complete game.cpp
+D:\self study\projects\project icy tower\Project1\Project1\complete game.cpp(13,46): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+D:\self study\projects\project icy tower\Project1\Project1\complete game.cpp(13,46): warning C4244:         with
+D:\self study\projects\project icy tower\Project1\Project1\complete game.cpp(13,46): warning C4244:         [
+D:\self study\projects\project icy tower\Project1\Project1\complete game.cpp(13,46): warning C4244:             T=float
+D:\self study\projects\project icy tower\Project1\Project1\complete game.cpp(13,46): warning C4244:         ]
+D:\self study\projects\project icy tower\Project1\Project1\complete game.cpp(13,33): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+D:\self study\projects\project icy tower\Project1\Project1\complete game.cpp(13,33): warning C4244:         with
+D:\self study\projects\project icy tower\Project1\Project1\complete game.cpp(13,33): warning C4244:         [
+D:\self study\projects\project icy tower\Project1\Project1\complete game.cpp(13,33): warning C4244:             T=float
+D:\self study\projects\project icy tower\Project1\Project1\complete game.cpp(13,33): warning C4244:         ]
+D:\self study\projects\project icy tower\Project1\Project1\complete game.cpp(261,60): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\self study\projects\project icy tower\Project1\Project1\complete game.cpp(261,44): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\self study\projects\project icy tower\Project1\Project1\complete game.cpp(320,18): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\self study\projects\project icy tower\Project1\Project1\complete game.cpp(324,23): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\self study\projects\project icy tower\Project1\Project1\complete game.cpp(337,41): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\self study\projects\project icy tower\Project1\Project1\complete game.cpp(337,35): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\self study\projects\project icy tower\Project1\Project1\complete game.cpp(338,47): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\self study\projects\project icy tower\Project1\Project1\complete game.cpp(343,38): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\self study\projects\project icy tower\Project1\Project1\complete game.cpp(343,33): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\self study\projects\project icy tower\Project1\Project1\complete game.cpp(344,40): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\self study\projects\project icy tower\Project1\Project1\complete game.cpp(348,34): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\self study\projects\project icy tower\Project1\Project1\complete game.cpp(348,28): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\self study\projects\project icy tower\Project1\Project1\complete game.cpp(351,34): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\self study\projects\project icy tower\Project1\Project1\complete game.cpp(351,28): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\self study\projects\project icy tower\Project1\Project1\complete game.cpp(354,34): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\self study\projects\project icy tower\Project1\Project1\complete game.cpp(354,28): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\self study\projects\project icy tower\Project1\Project1\complete game.cpp(356,34): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\self study\projects\project icy tower\Project1\Project1\complete game.cpp(356,28): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\self study\projects\project icy tower\Project1\Project1\complete game.cpp(362,41): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+D:\self study\projects\project icy tower\Project1\Project1\complete game.cpp(362,41): warning C4244:         with
+D:\self study\projects\project icy tower\Project1\Project1\complete game.cpp(362,41): warning C4244:         [
+D:\self study\projects\project icy tower\Project1\Project1\complete game.cpp(362,41): warning C4244:             T=int
+D:\self study\projects\project icy tower\Project1\Project1\complete game.cpp(362,41): warning C4244:         ]
+D:\self study\projects\project icy tower\Project1\Project1\complete game.cpp(367,68): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\self study\projects\project icy tower\Project1\Project1\complete game.cpp(369,24): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\self study\projects\project icy tower\Project1\Project1\complete game.cpp(369,19): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\self study\projects\project icy tower\Project1\Project1\complete game.cpp(372,27): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\self study\projects\project icy tower\Project1\Project1\complete game.cpp(378,30): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\self study\projects\project icy tower\Project1\Project1\complete game.cpp(378,24): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\self study\projects\project icy tower\Project1\Project1\complete game.cpp(380,21): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\self study\projects\project icy tower\Project1\Project1\complete game.cpp(412,87): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+D:\self study\projects\project icy tower\Project1\Project1\complete game.cpp(412,39): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+D:\self study\projects\project icy tower\Project1\Project1\complete game.cpp(413,41): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+D:\self study\projects\project icy tower\Project1\Project1\complete game.cpp(414,40): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+D:\self study\projects\project icy tower\Project1\Project1\complete game.cpp(432,45): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\self study\projects\project icy tower\Project1\Project1\complete game.cpp(433,34): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\self study\projects\project icy tower\Project1\Project1\complete game.cpp(433,30): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\self study\projects\project icy tower\Project1\Project1\complete game.cpp(437,23): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\self study\projects\project icy tower\Project1\Project1\complete game.cpp(437,19): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\self study\projects\project icy tower\Project1\Project1\complete game.cpp(440,24): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\self study\projects\project icy tower\Project1\Project1\complete game.cpp(440,19): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\self study\projects\project icy tower\Project1\Project1\complete game.cpp(444,22): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\self study\projects\project icy tower\Project1\Project1\complete game.cpp(449,28): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\self study\projects\project icy tower\Project1\Project1\complete game.cpp(449,23): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\self study\projects\project icy tower\Project1\Project1\complete game.cpp(452,28): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\self study\projects\project icy tower\Project1\Project1\complete game.cpp(452,23): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\self study\projects\project icy tower\Project1\Project1\complete game.cpp(682,47): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\self study\projects\project icy tower\Project1\Project1\complete game.cpp(686,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+D:\self study\projects\project icy tower\Project1\Project1\complete game.cpp(979,43): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\self study\projects\project icy tower\Project1\Project1\complete game.cpp(1217,66): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\self study\projects\project icy tower\Project1\Project1\complete game.cpp(1226,66): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\self study\projects\project icy tower\Project1\Project1\complete game.cpp(1393,46): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\self study\projects\project icy tower\Project1\Project1\complete game.cpp(1422,63): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\self study\projects\project icy tower\Project1\Project1\complete game.cpp(1438,63): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\self study\projects\project icy tower\Project1\Project1\complete game.cpp(1467,63): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\self study\projects\project icy tower\Project1\Project1\complete game.cpp(1733,50): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\self study\projects\project icy tower\Project1\Project1\complete game.cpp(1767,63): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\self study\projects\project icy tower\Project1\Project1\complete game.cpp(1782,59): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\self study\projects\project icy tower\Project1\Project1\complete game.cpp(1816,67): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\self study\projects\project icy tower\Project1\Project1\complete game.cpp(1895,45): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\self study\projects\project icy tower\Project1\Project1\complete game.cpp(1906,44): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\self study\projects\project icy tower\Project1\Project1\complete game.cpp(1957,49): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\self study\projects\project icy tower\Project1\Project1\complete game.cpp(2015,26): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\self study\projects\project icy tower\Project1\Project1\complete game.cpp(2015,19): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\self study\projects\project icy tower\Project1\Project1\complete game.cpp(2018,40): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+D:\self study\projects\project icy tower\Project1\Project1\complete game.cpp(2018,40): warning C4244:         with
+D:\self study\projects\project icy tower\Project1\Project1\complete game.cpp(2018,40): warning C4244:         [
+D:\self study\projects\project icy tower\Project1\Project1\complete game.cpp(2018,40): warning C4244:             T=int
+D:\self study\projects\project icy tower\Project1\Project1\complete game.cpp(2018,40): warning C4244:         ]
+D:\self study\projects\project icy tower\Project1\Project1\complete game.cpp(2019,39): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+D:\self study\projects\project icy tower\Project1\Project1\complete game.cpp(2019,39): warning C4244:         with
+D:\self study\projects\project icy tower\Project1\Project1\complete game.cpp(2019,39): warning C4244:         [
+D:\self study\projects\project icy tower\Project1\Project1\complete game.cpp(2019,39): warning C4244:             T=int
+D:\self study\projects\project icy tower\Project1\Project1\complete game.cpp(2019,39): warning C4244:         ]
+D:\self study\projects\project icy tower\Project1\Project1\complete game.cpp(2020,41): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+D:\self study\projects\project icy tower\Project1\Project1\complete game.cpp(2020,41): warning C4244:         with
+D:\self study\projects\project icy tower\Project1\Project1\complete game.cpp(2020,41): warning C4244:         [
+D:\self study\projects\project icy tower\Project1\Project1\complete game.cpp(2020,41): warning C4244:             T=int
+D:\self study\projects\project icy tower\Project1\Project1\complete game.cpp(2020,41): warning C4244:         ]
+D:\self study\projects\project icy tower\Project1\Project1\complete game.cpp(2117,63): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+D:\self study\projects\project icy tower\Project1\Project1\complete game.cpp(2117,63): warning C4244:         with
+D:\self study\projects\project icy tower\Project1\Project1\complete game.cpp(2117,63): warning C4244:         [
+D:\self study\projects\project icy tower\Project1\Project1\complete game.cpp(2117,63): warning C4244:             T=int
+D:\self study\projects\project icy tower\Project1\Project1\complete game.cpp(2117,63): warning C4244:         ]
+D:\self study\projects\project icy tower\Project1\Project1\complete game.cpp(2117,52): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+D:\self study\projects\project icy tower\Project1\Project1\complete game.cpp(2117,52): warning C4244:         with
+D:\self study\projects\project icy tower\Project1\Project1\complete game.cpp(2117,52): warning C4244:         [
+D:\self study\projects\project icy tower\Project1\Project1\complete game.cpp(2117,52): warning C4244:             T=int
+D:\self study\projects\project icy tower\Project1\Project1\complete game.cpp(2117,52): warning C4244:         ]
+D:\self study\projects\project icy tower\Project1\Project1\complete game.cpp(2119,63): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+D:\self study\projects\project icy tower\Project1\Project1\complete game.cpp(2119,63): warning C4244:         with
+D:\self study\projects\project icy tower\Project1\Project1\complete game.cpp(2119,63): warning C4244:         [
+D:\self study\projects\project icy tower\Project1\Project1\complete game.cpp(2119,63): warning C4244:             T=int
+D:\self study\projects\project icy tower\Project1\Project1\complete game.cpp(2119,63): warning C4244:         ]
+D:\self study\projects\project icy tower\Project1\Project1\complete game.cpp(2119,51): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+D:\self study\projects\project icy tower\Project1\Project1\complete game.cpp(2119,51): warning C4244:         with
+D:\self study\projects\project icy tower\Project1\Project1\complete game.cpp(2119,51): warning C4244:         [
+D:\self study\projects\project icy tower\Project1\Project1\complete game.cpp(2119,51): warning C4244:             T=int
+D:\self study\projects\project icy tower\Project1\Project1\complete game.cpp(2119,51): warning C4244:         ]
+D:\self study\projects\project icy tower\Project1\Project1\complete game.cpp(2121,65): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+D:\self study\projects\project icy tower\Project1\Project1\complete game.cpp(2121,65): warning C4244:         with
+D:\self study\projects\project icy tower\Project1\Project1\complete game.cpp(2121,65): warning C4244:         [
+D:\self study\projects\project icy tower\Project1\Project1\complete game.cpp(2121,65): warning C4244:             T=int
+D:\self study\projects\project icy tower\Project1\Project1\complete game.cpp(2121,65): warning C4244:         ]
+D:\self study\projects\project icy tower\Project1\Project1\complete game.cpp(2121,53): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+D:\self study\projects\project icy tower\Project1\Project1\complete game.cpp(2121,53): warning C4244:         with
+D:\self study\projects\project icy tower\Project1\Project1\complete game.cpp(2121,53): warning C4244:         [
+D:\self study\projects\project icy tower\Project1\Project1\complete game.cpp(2121,53): warning C4244:             T=int
+D:\self study\projects\project icy tower\Project1\Project1\complete game.cpp(2121,53): warning C4244:         ]
+D:\self study\projects\project icy tower\Project1\Project1\complete game.cpp(2211,26): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\self study\projects\project icy tower\Project1\Project1\complete game.cpp(2211,19): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\self study\projects\project icy tower\Project1\Project1\complete game.cpp(2214,40): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+D:\self study\projects\project icy tower\Project1\Project1\complete game.cpp(2214,40): warning C4244:         with
+D:\self study\projects\project icy tower\Project1\Project1\complete game.cpp(2214,40): warning C4244:         [
+D:\self study\projects\project icy tower\Project1\Project1\complete game.cpp(2214,40): warning C4244:             T=int
+D:\self study\projects\project icy tower\Project1\Project1\complete game.cpp(2214,40): warning C4244:         ]
+D:\self study\projects\project icy tower\Project1\Project1\complete game.cpp(2215,39): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+D:\self study\projects\project icy tower\Project1\Project1\complete game.cpp(2215,39): warning C4244:         with
+D:\self study\projects\project icy tower\Project1\Project1\complete game.cpp(2215,39): warning C4244:         [
+D:\self study\projects\project icy tower\Project1\Project1\complete game.cpp(2215,39): warning C4244:             T=int
+D:\self study\projects\project icy tower\Project1\Project1\complete game.cpp(2215,39): warning C4244:         ]
+D:\self study\projects\project icy tower\Project1\Project1\complete game.cpp(2216,41): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+D:\self study\projects\project icy tower\Project1\Project1\complete game.cpp(2216,41): warning C4244:         with
+D:\self study\projects\project icy tower\Project1\Project1\complete game.cpp(2216,41): warning C4244:         [
+D:\self study\projects\project icy tower\Project1\Project1\complete game.cpp(2216,41): warning C4244:             T=int
+D:\self study\projects\project icy tower\Project1\Project1\complete game.cpp(2216,41): warning C4244:         ]
+D:\self study\projects\project icy tower\Project1\Project1\complete game.cpp(2471,46): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\self study\projects\project icy tower\Project1\Project1\complete game.cpp(2515,63): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\self study\projects\project icy tower\Project1\Project1\complete game.cpp(2529,63): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\self study\projects\project icy tower\Project1\Project1\complete game.cpp(2552,75): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\self study\projects\project icy tower\Project1\Project1\complete game.cpp(2557,75): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\self study\projects\project icy tower\Project1\Project1\complete game.cpp(2572,58): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\self study\projects\project icy tower\Project1\Project1\complete game.cpp(2595,67): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\self study\projects\project icy tower\Project1\Project1\complete game.cpp(2631,67): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\self study\projects\project icy tower\Project1\Project1\complete game.cpp(2636,67): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\self study\projects\project icy tower\Project1\Project1\complete game.cpp(2645,24): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\self study\projects\project icy tower\Project1\Project1\complete game.cpp(2673,45): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\self study\projects\project icy tower\Project1\Project1\complete game.cpp(2678,53): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\self study\projects\project icy tower\Project1\Project1\complete game.cpp(2679,59): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\self study\projects\project icy tower\Project1\Project1\complete game.cpp(2680,60): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\self study\projects\project icy tower\Project1\Project1\complete game.cpp(2681,91): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\self study\projects\project icy tower\Project1\Project1\complete game.cpp(2681,46): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\self study\projects\project icy tower\Project1\Project1\complete game.cpp(2791,28): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+D:\self study\projects\project icy tower\Project1\Project1\complete game.cpp(2791,17): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+D:\self study\projects\project icy tower\Project1\Project1\complete game.cpp(2797,32): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+D:\self study\projects\project icy tower\Project1\Project1\complete game.cpp(2797,21): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+D:\self study\projects\project icy tower\Project1\Project1\complete game.cpp(2802,33): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+D:\self study\projects\project icy tower\Project1\Project1\complete game.cpp(2802,21): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+D:\self study\projects\project icy tower\Project1\Project1\complete game.cpp(2809,32): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+D:\self study\projects\project icy tower\Project1\Project1\complete game.cpp(2809,21): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+D:\self study\projects\project icy tower\Project1\Project1\complete game.cpp(2814,33): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+D:\self study\projects\project icy tower\Project1\Project1\complete game.cpp(2814,21): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+D:\self study\projects\project icy tower\Project1\Project1\complete game.cpp(2864,57): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+D:\self study\projects\project icy tower\Project1\Project1\complete game.cpp(2864,40): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+D:\self study\projects\project icy tower\Project1\Project1\complete game.cpp(2898,57): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\self study\projects\project icy tower\Project1\Project1\complete game.cpp(2899,63): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\self study\projects\project icy tower\Project1\Project1\complete game.cpp(2900,64): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\self study\projects\project icy tower\Project1\Project1\complete game.cpp(2901,28): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+D:\self study\projects\project icy tower\Project1\Project1\complete game.cpp(2905,49): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\self study\projects\project icy tower\Project1\Project1\complete game.cpp(3014,35): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\self study\projects\project icy tower\Project1\Project1\complete game.cpp(3015,34): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\self study\projects\project icy tower\Project1\Project1\complete game.cpp(3015,29): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\self study\projects\project icy tower\Project1\Project1\complete game.cpp(3018,64): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+D:\self study\projects\project icy tower\Project1\Project1\complete game.cpp(3018,64): warning C4244:         with
+D:\self study\projects\project icy tower\Project1\Project1\complete game.cpp(3018,64): warning C4244:         [
+D:\self study\projects\project icy tower\Project1\Project1\complete game.cpp(3018,64): warning C4244:             T=int
+D:\self study\projects\project icy tower\Project1\Project1\complete game.cpp(3018,64): warning C4244:         ]
+D:\self study\projects\project icy tower\Project1\Project1\complete game.cpp(3018,53): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+D:\self study\projects\project icy tower\Project1\Project1\complete game.cpp(3018,53): warning C4244:         with
+D:\self study\projects\project icy tower\Project1\Project1\complete game.cpp(3018,53): warning C4244:         [
+D:\self study\projects\project icy tower\Project1\Project1\complete game.cpp(3018,53): warning C4244:             T=int
+D:\self study\projects\project icy tower\Project1\Project1\complete game.cpp(3018,53): warning C4244:         ]
+D:\self study\projects\project icy tower\Project1\Project1\complete game.cpp(3023,35): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\self study\projects\project icy tower\Project1\Project1\complete game.cpp(3027,66): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+D:\self study\projects\project icy tower\Project1\Project1\complete game.cpp(3027,66): warning C4244:         with
+D:\self study\projects\project icy tower\Project1\Project1\complete game.cpp(3027,66): warning C4244:         [
+D:\self study\projects\project icy tower\Project1\Project1\complete game.cpp(3027,66): warning C4244:             T=int
+D:\self study\projects\project icy tower\Project1\Project1\complete game.cpp(3027,66): warning C4244:         ]
+D:\self study\projects\project icy tower\Project1\Project1\complete game.cpp(3027,53): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+D:\self study\projects\project icy tower\Project1\Project1\complete game.cpp(3027,53): warning C4244:         with
+D:\self study\projects\project icy tower\Project1\Project1\complete game.cpp(3027,53): warning C4244:         [
+D:\self study\projects\project icy tower\Project1\Project1\complete game.cpp(3027,53): warning C4244:             T=int
+D:\self study\projects\project icy tower\Project1\Project1\complete game.cpp(3027,53): warning C4244:         ]
+D:\self study\projects\project icy tower\Project1\Project1\complete game.cpp(3032,35): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\self study\projects\project icy tower\Project1\Project1\complete game.cpp(3036,65): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+D:\self study\projects\project icy tower\Project1\Project1\complete game.cpp(3036,65): warning C4244:         with
+D:\self study\projects\project icy tower\Project1\Project1\complete game.cpp(3036,65): warning C4244:         [
+D:\self study\projects\project icy tower\Project1\Project1\complete game.cpp(3036,65): warning C4244:             T=int
+D:\self study\projects\project icy tower\Project1\Project1\complete game.cpp(3036,65): warning C4244:         ]
+D:\self study\projects\project icy tower\Project1\Project1\complete game.cpp(3036,53): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+D:\self study\projects\project icy tower\Project1\Project1\complete game.cpp(3036,53): warning C4244:         with
+D:\self study\projects\project icy tower\Project1\Project1\complete game.cpp(3036,53): warning C4244:         [
+D:\self study\projects\project icy tower\Project1\Project1\complete game.cpp(3036,53): warning C4244:             T=int
+D:\self study\projects\project icy tower\Project1\Project1\complete game.cpp(3036,53): warning C4244:         ]
+D:\self study\projects\project icy tower\Project1\Project1\complete game.cpp(3041,35): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\self study\projects\project icy tower\Project1\Project1\complete game.cpp(3043,56): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+D:\self study\projects\project icy tower\Project1\Project1\complete game.cpp(3043,56): warning C4244:         with
+D:\self study\projects\project icy tower\Project1\Project1\complete game.cpp(3043,56): warning C4244:         [
+D:\self study\projects\project icy tower\Project1\Project1\complete game.cpp(3043,56): warning C4244:             T=int
+D:\self study\projects\project icy tower\Project1\Project1\complete game.cpp(3043,56): warning C4244:         ]
+D:\self study\projects\project icy tower\Project1\Project1\complete game.cpp(3043,45): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+D:\self study\projects\project icy tower\Project1\Project1\complete game.cpp(3043,45): warning C4244:         with
+D:\self study\projects\project icy tower\Project1\Project1\complete game.cpp(3043,45): warning C4244:         [
+D:\self study\projects\project icy tower\Project1\Project1\complete game.cpp(3043,45): warning C4244:             T=int
+D:\self study\projects\project icy tower\Project1\Project1\complete game.cpp(3043,45): warning C4244:         ]
+D:\self study\projects\project icy tower\Project1\Project1\complete game.cpp(3075,36): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\self study\projects\project icy tower\Project1\Project1\complete game.cpp(3076,34): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\self study\projects\project icy tower\Project1\Project1\complete game.cpp(3076,29): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\self study\projects\project icy tower\Project1\Project1\complete game.cpp(3079,65): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+D:\self study\projects\project icy tower\Project1\Project1\complete game.cpp(3079,65): warning C4244:         with
+D:\self study\projects\project icy tower\Project1\Project1\complete game.cpp(3079,65): warning C4244:         [
+D:\self study\projects\project icy tower\Project1\Project1\complete game.cpp(3079,65): warning C4244:             T=int
+D:\self study\projects\project icy tower\Project1\Project1\complete game.cpp(3079,65): warning C4244:         ]
+D:\self study\projects\project icy tower\Project1\Project1\complete game.cpp(3079,53): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+D:\self study\projects\project icy tower\Project1\Project1\complete game.cpp(3079,53): warning C4244:         with
+D:\self study\projects\project icy tower\Project1\Project1\complete game.cpp(3079,53): warning C4244:         [
+D:\self study\projects\project icy tower\Project1\Project1\complete game.cpp(3079,53): warning C4244:             T=int
+D:\self study\projects\project icy tower\Project1\Project1\complete game.cpp(3079,53): warning C4244:         ]
+D:\self study\projects\project icy tower\Project1\Project1\complete game.cpp(3085,34): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\self study\projects\project icy tower\Project1\Project1\complete game.cpp(3085,29): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\self study\projects\project icy tower\Project1\Project1\complete game.cpp(3094,34): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\self study\projects\project icy tower\Project1\Project1\complete game.cpp(3094,29): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\self study\projects\project icy tower\Project1\Project1\complete game.cpp(3103,34): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\self study\projects\project icy tower\Project1\Project1\complete game.cpp(3103,29): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\self study\projects\project icy tower\Project1\Project1\complete game.cpp(3108,34): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\self study\projects\project icy tower\Project1\Project1\complete game.cpp(3108,29): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\self study\projects\project icy tower\Project1\Project1\complete game.cpp(3113,34): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\self study\projects\project icy tower\Project1\Project1\complete game.cpp(3113,29): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\self study\projects\project icy tower\Project1\Project1\complete game.cpp(3118,34): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\self study\projects\project icy tower\Project1\Project1\complete game.cpp(3118,29): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\self study\projects\project icy tower\Project1\Project1\complete game.cpp(3123,34): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\self study\projects\project icy tower\Project1\Project1\complete game.cpp(3123,29): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\self study\projects\project icy tower\Project1\Project1\complete game.cpp(3127,34): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\self study\projects\project icy tower\Project1\Project1\complete game.cpp(3127,29): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\self study\projects\project icy tower\Project1\Project1\complete game.cpp(3136,34): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\self study\projects\project icy tower\Project1\Project1\complete game.cpp(3136,29): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\self study\projects\project icy tower\Project1\Project1\complete game.cpp(3137,36): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\self study\projects\project icy tower\Project1\Project1\complete game.cpp(3140,65): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+D:\self study\projects\project icy tower\Project1\Project1\complete game.cpp(3140,65): warning C4244:         with
+D:\self study\projects\project icy tower\Project1\Project1\complete game.cpp(3140,65): warning C4244:         [
+D:\self study\projects\project icy tower\Project1\Project1\complete game.cpp(3140,65): warning C4244:             T=int
+D:\self study\projects\project icy tower\Project1\Project1\complete game.cpp(3140,65): warning C4244:         ]
+D:\self study\projects\project icy tower\Project1\Project1\complete game.cpp(3140,53): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+D:\self study\projects\project icy tower\Project1\Project1\complete game.cpp(3140,53): warning C4244:         with
+D:\self study\projects\project icy tower\Project1\Project1\complete game.cpp(3140,53): warning C4244:         [
+D:\self study\projects\project icy tower\Project1\Project1\complete game.cpp(3140,53): warning C4244:             T=int
+D:\self study\projects\project icy tower\Project1\Project1\complete game.cpp(3140,53): warning C4244:         ]
+D:\self study\projects\project icy tower\Project1\Project1\complete game.cpp(3145,36): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\self study\projects\project icy tower\Project1\Project1\complete game.cpp(3146,34): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\self study\projects\project icy tower\Project1\Project1\complete game.cpp(3146,29): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\self study\projects\project icy tower\Project1\Project1\complete game.cpp(3149,67): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+D:\self study\projects\project icy tower\Project1\Project1\complete game.cpp(3149,67): warning C4244:         with
+D:\self study\projects\project icy tower\Project1\Project1\complete game.cpp(3149,67): warning C4244:         [
+D:\self study\projects\project icy tower\Project1\Project1\complete game.cpp(3149,67): warning C4244:             T=int
+D:\self study\projects\project icy tower\Project1\Project1\complete game.cpp(3149,67): warning C4244:         ]
+D:\self study\projects\project icy tower\Project1\Project1\complete game.cpp(3149,53): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+D:\self study\projects\project icy tower\Project1\Project1\complete game.cpp(3149,53): warning C4244:         with
+D:\self study\projects\project icy tower\Project1\Project1\complete game.cpp(3149,53): warning C4244:         [
+D:\self study\projects\project icy tower\Project1\Project1\complete game.cpp(3149,53): warning C4244:             T=int
+D:\self study\projects\project icy tower\Project1\Project1\complete game.cpp(3149,53): warning C4244:         ]
+D:\self study\projects\project icy tower\Project1\Project1\complete game.cpp(3154,36): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\self study\projects\project icy tower\Project1\Project1\complete game.cpp(3155,34): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\self study\projects\project icy tower\Project1\Project1\complete game.cpp(3155,29): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\self study\projects\project icy tower\Project1\Project1\complete game.cpp(3158,66): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+D:\self study\projects\project icy tower\Project1\Project1\complete game.cpp(3158,66): warning C4244:         with
+D:\self study\projects\project icy tower\Project1\Project1\complete game.cpp(3158,66): warning C4244:         [
+D:\self study\projects\project icy tower\Project1\Project1\complete game.cpp(3158,66): warning C4244:             T=int
+D:\self study\projects\project icy tower\Project1\Project1\complete game.cpp(3158,66): warning C4244:         ]
+D:\self study\projects\project icy tower\Project1\Project1\complete game.cpp(3158,53): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+D:\self study\projects\project icy tower\Project1\Project1\complete game.cpp(3158,53): warning C4244:         with
+D:\self study\projects\project icy tower\Project1\Project1\complete game.cpp(3158,53): warning C4244:         [
+D:\self study\projects\project icy tower\Project1\Project1\complete game.cpp(3158,53): warning C4244:             T=int
+D:\self study\projects\project icy tower\Project1\Project1\complete game.cpp(3158,53): warning C4244:         ]
+D:\self study\projects\project icy tower\Project1\Project1\complete game.cpp(3164,34): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\self study\projects\project icy tower\Project1\Project1\complete game.cpp(3164,29): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\self study\projects\project icy tower\Project1\Project1\complete game.cpp(3169,34): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\self study\projects\project icy tower\Project1\Project1\complete game.cpp(3169,29): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\self study\projects\project icy tower\Project1\Project1\complete game.cpp(3174,34): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\self study\projects\project icy tower\Project1\Project1\complete game.cpp(3174,29): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\self study\projects\project icy tower\Project1\Project1\complete game.cpp(3179,34): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\self study\projects\project icy tower\Project1\Project1\complete game.cpp(3179,29): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\self study\projects\project icy tower\Project1\Project1\complete game.cpp(3184,34): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\self study\projects\project icy tower\Project1\Project1\complete game.cpp(3184,29): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\self study\projects\project icy tower\Project1\Project1\complete game.cpp(3188,34): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\self study\projects\project icy tower\Project1\Project1\complete game.cpp(3188,29): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\self study\projects\project icy tower\Project1\Project1\complete game.cpp(3200,57): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+D:\self study\projects\project icy tower\Project1\Project1\complete game.cpp(3251,27): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+D:\self study\projects\project icy tower\Project1\Project1\complete game.cpp(3276,27): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+D:\self study\projects\project icy tower\Project1\Project1\complete game.cpp(3297,26): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\self study\projects\project icy tower\Project1\Project1\complete game.cpp(3311,27): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+D:\self study\projects\project icy tower\Project1\Project1\complete game.cpp(3321,21): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\self study\projects\project icy tower\Project1\Project1\complete game.cpp(3331,30): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\self study\projects\project icy tower\Project1\Project1\complete game.cpp(3334,23): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+D:\self study\projects\project icy tower\Project1\Project1\complete game.cpp(3386,34): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\self study\projects\project icy tower\Project1\Project1\complete game.cpp(3425,75): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+D:\self study\projects\project icy tower\Project1\Project1\complete game.cpp(3428,75): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+D:\self study\projects\project icy tower\Project1\Project1\complete game.cpp(3432,71): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+D:\self study\projects\project icy tower\Project1\Project1\complete game.cpp(3439,35): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\self study\projects\project icy tower\Project1\Project1\complete game.cpp(3440,34): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\self study\projects\project icy tower\Project1\Project1\complete game.cpp(3441,33): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\self study\projects\project icy tower\Project1\Project1\complete game.cpp(3488,34): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+D:\self study\projects\project icy tower\Project1\Project1\complete game.cpp(3488,22): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\self study\projects\project icy tower\Project1\Project1\complete game.cpp(3523,84): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+D:\self study\projects\project icy tower\Project1\Project1\complete game.cpp(3524,84): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+D:\self study\projects\project icy tower\Project1\Project1\complete game.cpp(3525,80): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+D:\self study\projects\project icy tower\Project1\Project1\complete game.cpp(3625,23): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\self study\projects\project icy tower\Project1\Project1\complete game.cpp(3714,60): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\self study\projects\project icy tower\Project1\Project1\complete game.cpp(3714,42): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\self study\projects\project icy tower\Project1\Project1\complete game.cpp(726,1): warning C4715: 'tojoy': not all control paths return a value
+  Project1.vcxproj -> D:\self study\projects\project icy tower\Project1\x64\Debug\icy tower.exe
